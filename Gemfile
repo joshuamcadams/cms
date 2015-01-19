@@ -50,3 +50,11 @@ group :development, :test do
   gem 'spring'
 end
 
+group :production do
+	gem 'puma'
+end
+
+group :development do
+	gem 'mina'
+end
+

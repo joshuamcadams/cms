@@ -1,3 +1,0 @@
----
-- name: cd to vagrant directory by default
-  lineinfile: line="cd /vagrant" dest=/home/{{ deploy_user }}/.profile state=present
