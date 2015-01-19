@@ -1,0 +1,7 @@
+---
+application_name: simple_cms
+production:
+  db_name: simple_cms_production
+  db_user: deploy
+  db_password: password123
+  secret_key_base: 7d46dfcb4e48111e0a7f546ee596b198342093c3597fadfb73dbc0015968be9a552fa5568f6ad8a144bfb7194af90fb14e5655a9824d990cfe18873abdc484b3

@@ -1,0 +1,7 @@
+---
+domain: 104.236.177.212
+deploy_user: deploy
+database:
+  name: "{{ production.db_name }}"
+  user: "{{ production.db_user }}"
+  password: "{{ production.db_password }}"
