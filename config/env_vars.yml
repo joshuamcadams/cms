@@ -1,0 +1,7 @@
+---
+application_name: simple_cms_production
+production:
+  db_name:
+  db_user:
+  db_password:
+  secret_key_base:

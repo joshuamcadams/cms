@@ -1,0 +1,8 @@
+---
+domain: 127.0.0.1
+deploy_user: vagrant
+database:
+  name: simple_cms_production
+  user: vagrant
+  password: vagrant
+secret_key_base: b139a66aa880ffd59f56a5983aa77d48d5a473e8c42adc356e23f4634a0665bd9e87827ac72946615000a93a9e71543b05d7e80ebdf3980cabd83fa2a7fccc78
