@@ -32,6 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bcrypt', '~> 3.1.7'
 
 gem 'acts_as_list', '~> 0.6.0'
+gem 'rb-readline'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
